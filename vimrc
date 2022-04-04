@@ -143,6 +143,8 @@ nnoremap <leader>l <cmd>Telescope live_grep<cr>
 nnoremap <leader>i <cmd>Telescope current_buffer_fuzzy_find<cr>
 nnoremap <leader>r <cmd>Telescope lsp_references<cr>
 nnoremap <leader>j <cmd>Telescope jumplist<cr>
+nnoremap <leader>o <cmd>Telescope oldfiles<cr>
+nnoremap <leader>p <cmd>Telescope pickers<cr>
 
 
 " Vim Airline options +++++++
